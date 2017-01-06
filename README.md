@@ -35,6 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+-Experienced an issue with Xcode that would not allow me to connect something from the story to a function.(Fixed the issue)
+
 ![alt tag](https://raw.githubusercontent.com/yelabd/CodePathPreWorkTipCalc/master/tipcalc.gif)
 
 ## License
